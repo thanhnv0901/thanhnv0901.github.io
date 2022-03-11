@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Go Development
+  logo: "images/skill/golang.png"
+  summary: >
+    Using as the main language for professional development. 
+    Capable of writing scalable, testable, and maintainable program. I can detect and improve performance. I also write TDD and BDD.
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  logo: "images/skill/googlecloud.png"
+  summary: "Worked with services of GPC cloud such as Dataflow, PubSub, Bigquery, Cloud Storage."
