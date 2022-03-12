@@ -16,9 +16,35 @@ skills:
   logo: "images/skill/golang.png"
   summary: >
     Using as the main language for professional development. 
-    Capable of writing scalable, testable, and maintainable program. I can detect and improve performance. I also write TDD and BDD.
+    Capable of writing scalable, testable, and maintainable program. Detect and improve performance. Write TDD and BDD.
   url: "https://golang.org/"
+
+- name: PostgreSQL
+  logo: "images/skill/postgresql.png"
+  summary: >
+    knowledge on how to create and store data in a Postgre database. 
+    Create procedures, triggers, and index for table.
+  url: https://www.postgresql.org/
+
+- name: ETL
+  logo: "images/skill/etl.png"
+  summary: >
+    Experience in Apache Beam open source for ETL pipeline. 
+    Build End-to-End test and deploy the pipelines on Dataflow and Flink environments.
+  url: https://beam.apache.org/
 
 - name: Cloud Computing
   logo: "images/skill/googlecloud.png"
-  summary: "Worked with services of GPC cloud such as Dataflow, PubSub, Bigquery, Cloud Storage."
+  summary: "Worked with services of GPC cloud such as Dataflow, PubSub, Bigquery and Cloud Storage."
+  url: https://cloud.google.com/
+
+- name: Git
+  logo: "images/skill/git.png"
+  summary: "Experienced with git-based development. Mostly, use Bitbucket. Also, have experience in working with Github."
+  url: "https://git-scm.com/"
+
+- name: Linux
+  logo: images/skill/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+

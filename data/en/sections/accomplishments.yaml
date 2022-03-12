@@ -1,0 +1,139 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Completed CCNA
+  timeline: "2016"
+  organization:
+    name: Vnpro
+    url: https://vnpro.vn/
+  courseOverview: >
+    This course helps to understand the key concepts in Networks such as routers, switches. How components in network connect
+    and work together. It also helps me config basic network by myself.
+
+- name: Completed Blue course in Big-O coding
+  timeline: "2017"
+  organization:
+    name: Big-O
+    url: https://bigocoding.com/
+  courseOverview: >
+    This course provides a detail introduction to basic famous Algorithms. For example: Sort, Stack & Queue,
+    BFS, Dijkstra, Binary Search, etc. It helps me to consolidate fundamental logic.
+    
+- name: Completed Machine Learning course of Andrew Ng in Coursera
+  timeline: "2018"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: >
+    This course provides a broad introduction to machine learning, datamining, 
+    and statistical pattern recognition. 
+    Topics include: (i) Supervised learning (parametric/non-parametric algorithms, 
+    support vector machines, kernels, neural networks). 
+    (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). 
+    (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+
+- name: Deep Learning Specialization
+  timeline: "Nov 2019"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/specializations/deep-learning
+  courseOverview: >
+    This course help me can build neural network architectures such as Convolutional Neural Networks, Recurrent
+    Neural Networks, LSTMs, Transformers, and learned how to make
+    them better with strategies such as Dropout, BatchNorm, and
+    Xavier/He initialization.
+    I are now familiar with the capabilities and challenges of deep learning. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/3F7GYRHW3P5M"
+  
+- name: Completed Orange course in Big-O coding
+  timeline: "2019"
+  organization:
+    name: Big-O
+    url: https://bigocoding.com/
+  courseOverview: >
+    This course provides a advanced Algorithms. I learned knowledge about Bit Manipulation, Backtracking, Divide and conquer, Greedy, Number theory,
+    Hash Table, Dynamic programming, etc. After finishing this course, I feel more confident when fact tricky problems.
+  
+- name: Web Development w/ Google’s Go (golang) Programming Language
+  timeline: "2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/go-programming-language/
+  courseOverview: >
+    This course help me understand how to create website by using Go standard libraries, routing and deploy it into AWS web service.
+    Follow this course, I can also build and run app in docker container.
+
+- name: React - The Complete Guide (include Hooks, React Router, Redux)
+  timeline: "2021"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+  courseOverview: >
+    This course provide instruction how to create Front-end with reactjs Framework. This leatures introduce about 
+    Hooks, React Router, Redux, etc. It share experiences for improve performance such as using useMemo, useCallback.
+    
+
+
+
+
+
+# - name: Neural Networks and Deep Learning
+#   timeline: "Nov 2019"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+#   courseOverview: >
+#     In the first course of the Deep Learning Specialization, I will study the foundational concept of neural networks and deep learning. 
+#   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/P75U3UYTNLM5"
+
+# - name: Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization
+#   timeline: "Nov 2019"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
+#   courseOverview: >
+#     In the second course of the Deep Learning Specialization, 
+#     I open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+#   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/W2KFS6XEE9RX"
+
+# - name: Structuring Machine Learning Projects
+#   timeline: "Nov 2019"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
+#   courseOverview: >
+#     In the third course of the Deep Learning Specialization, 
+#     I learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader
+#   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/7S44L7K7H9EF"
+
+# - name: Convolutional Neural Networks
+#   timeline: "Nov 2019"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+#   courseOverview: >
+#     In the fourth course of the Deep Learning Specialization, 
+#     I understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, 
+#     face recognition, reading radiology images, and more.
+#   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/AG2ZPJ3YCL6V"
+
+# - name: Sequence Models
+#   timeline: "Nov 2019"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning
+#   courseOverview: >
+#     In the fourth course of the Deep Learning Specialization, 
+#     I understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, 
+#     face recognition, reading radiology images, and more.
+#   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/BEFXNB6V6WGE"
