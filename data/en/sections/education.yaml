@@ -16,7 +16,4 @@ degrees:
   institution:
     name: University information of technology, UIT
     url: "https://www.uit.edu.vn/"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 8.42
-    outOf: 10
+ 

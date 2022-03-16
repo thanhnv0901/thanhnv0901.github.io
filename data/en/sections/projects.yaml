@@ -2,7 +2,7 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -19,28 +19,18 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: My tools
+  logo: images/projects/tool-box.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "Jun 2020 - Present"
+  repo: https://github.com/thanhnv0901/mytools
+  summary: This repository contains useble code that can use in others projects.
+  tags: ["Golang", "Apache-Beam"]
+
+- name: My portfolio
+  logo: images/projects/profile.png
+  role: Owner
+  timeline: "Jun 2020 - Present"
+  repo: https://github.com/thanhnv0901/thanhnv0901.github.io
+  summary: This repository provides basic information about me that is visualized on Web UI.
+  tags: ["toha","hugo","theme"]
