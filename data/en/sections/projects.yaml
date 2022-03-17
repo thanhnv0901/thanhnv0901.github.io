@@ -12,11 +12,7 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
-
+  
 # your projects
 projects:
 - name: My tools

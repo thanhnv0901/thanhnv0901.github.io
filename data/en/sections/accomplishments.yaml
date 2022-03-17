@@ -37,11 +37,7 @@ accomplishments:
   courseOverview: >
     This course provides a broad introduction to machine learning, datamining, 
     and statistical pattern recognition. 
-    Topics include: (i) Supervised learning (parametric/non-parametric algorithms, 
-    support vector machines, kernels, neural networks). 
-    (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). 
-    (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
-
+    Topics include: Supervised learning, Unsupervised learning.
 - name: Deep Learning Specialization
   timeline: "Nov 2019"
   organization:
