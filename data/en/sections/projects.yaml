@@ -30,3 +30,12 @@ projects:
   repo: https://github.com/thanhnv0901/thanhnv0901.github.io
   summary: This repository provides basic information about me that is visualized on Web UI.
   tags: ["toha","hugo","theme"]
+
+- name: React Demo App
+  logo: images/projects/reactjs.png
+  role: Owner
+  timeline: "Jun 2021 - Present"
+  repo: https://github.com/thanhnv0901/manage_cost_ui
+  summary: > 
+    This repository demonstrates a simple application using ReacJS.
+  tags: ["reactjs","js","demo"]
