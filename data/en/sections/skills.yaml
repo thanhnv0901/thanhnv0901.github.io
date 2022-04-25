@@ -47,4 +47,10 @@ skills:
   logo: images/skill/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
+- name: Docker
+  logo: images/skill/docker.png
+  summary: "Dockerize programs and using docker-compose to virtual environments."
 
+- name: Prometheus
+  logo: images/skill/prometheus.png
+  summary: "Capable of setup, configure prometheus metrics."
